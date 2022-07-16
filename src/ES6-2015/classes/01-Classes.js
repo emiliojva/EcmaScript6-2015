@@ -1,4 +1,4 @@
-import { appendToBody } from "../../functions";
+import { appendToBody } from "../../functions.js";
 
 class Button {
   constructor(text, background, color) {
